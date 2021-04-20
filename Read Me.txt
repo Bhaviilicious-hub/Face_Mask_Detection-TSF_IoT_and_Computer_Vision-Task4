@@ -1,0 +1,5 @@
+	      The Sparks Foundation
+	IoT and Computer Vision Internship
+
+Name: Bhavika Ruchandani
+Task 4 : Detection of face mask
